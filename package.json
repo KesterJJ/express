@@ -1,0 +1,27 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"Hello!\");",
+    "cow": "cowsay -f ackbar \"It's a trap!\" ",
+    "start": "server.start();"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KesterJJ/express.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "kester",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KesterJJ/express/issues"
+  },
+  "homepage": "https://github.com/KesterJJ/express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
